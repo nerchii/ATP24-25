@@ -24,4 +24,4 @@ GitHub Pro je besplatan za sve studente, te nudi brojne dodatne pogodnosti. Stud
 - Commit
 - Pull request
 
-Današnji [zadaci](zadaci_20231109.md)
+Današnji [zadaci](zadaci_20231031.md)
